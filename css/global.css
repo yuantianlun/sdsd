@@ -157,7 +157,7 @@
     color: #fff;
 }
 .header-meun ul li:hover a{
-    color: #33cde5;
+    color: #356fb3;
 }
 .header-meun ul li.active:hover a{
     color: #fff;
@@ -432,7 +432,7 @@
 }
 
 .banner .flex-control-nav li a.flex-active {
-    background: rgb(51, 205, 229);
+    background: #356fb3;
 }
 
 .phonebanner {
@@ -489,7 +489,7 @@
 }
 
 .phonebanner-slider .flex-control-nav li a.flex-active {
-    background: rgb(51, 205, 229);
+    background: #356fb3;
 }
 
 .indexTit {
@@ -608,7 +608,7 @@
 }
 
 .index-service ul li:hover .text .bt {
-    color: #08c8b4
+    color: #356fb3;
 }
 
 .index-about {
@@ -874,7 +874,7 @@
 }
 
 .case_list_more a:hover {
-    background: #33cde5;
+    background: #356fb3;
     border: 1px solid transparent;
 }
 
@@ -1680,7 +1680,7 @@ footer {
 .ft_mn_bomlf ul h6.active a,
 .ft_mn_bomlf ul h6:hover a {
     font-size: 20px;
-    color: #33cde5;
+    color: #356fb3;
 }
 
 .ft_mn_bomlf ul li {
@@ -1719,7 +1719,7 @@ footer {
 }
 
 .ft_mn_bomrttop span {
-    color: #33cde5;
+    color: #356fb3;
     font-size: 24px;
 }
 
@@ -1781,12 +1781,12 @@ footer {
 }
 .ft_mn_bomrtcenter .link-name a:hover{
     font-size: 13px;
-    color: #33cde5;
+    color: #356fb3;
 }
 .ft_mnxa {
     width: 155px;
     height: 35px;
-    border: 1px solid #008bd2;
+    border: 1px solid #356fb3;
     line-height: 35px;
     color: #fff;
 }
@@ -1796,7 +1796,7 @@ footer {
 }
 
 .ft_mnxi {
-    background: #008bd2;
+    background: #356fb3;
 }
 
 .ft_mnx {
