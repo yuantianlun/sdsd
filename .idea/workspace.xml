@@ -3,29 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a9bcf191-9686-41fd-8669-4df35f1a976c" name="默认的" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/anli.html" afterPath="$PROJECT_DIR$/anli.html" />
-      <change beforePath="$PROJECT_DIR$/css/global.css" afterPath="$PROJECT_DIR$/css/global.css" />
-      <change beforePath="$PROJECT_DIR$/fuwu.html" afterPath="$PROJECT_DIR$/fuwu.html" />
-      <change beforePath="$PROJECT_DIR$/guanyu.html" afterPath="$PROJECT_DIR$/guanyu.html" />
-      <change beforePath="$PROJECT_DIR$/images/banner01.jpg" afterPath="$PROJECT_DIR$/images/banner01.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/banner01_01.png" afterPath="$PROJECT_DIR$/images/banner01_01.png" />
-      <change beforePath="$PROJECT_DIR$/images/banner01_02.png" afterPath="$PROJECT_DIR$/images/banner01_02.png" />
-      <change beforePath="$PROJECT_DIR$/images/banner02.jpg" afterPath="$PROJECT_DIR$/images/banner02.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/banner02_01.png" afterPath="$PROJECT_DIR$/images/banner02_01.png" />
-      <change beforePath="$PROJECT_DIR$/images/banner02_02.png" afterPath="$PROJECT_DIR$/images/banner02_02.png" />
-      <change beforePath="$PROJECT_DIR$/images/banner03.jpg" afterPath="$PROJECT_DIR$/images/banner03.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/banner03_01.png" afterPath="$PROJECT_DIR$/images/banner03_01.png" />
-      <change beforePath="$PROJECT_DIR$/images/banner03_02.png" afterPath="$PROJECT_DIR$/images/banner03_02.png" />
-      <change beforePath="$PROJECT_DIR$/images/banner04.jpg" afterPath="$PROJECT_DIR$/images/banner04.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/banner04_01.png" afterPath="$PROJECT_DIR$/images/banner04_01.png" />
-      <change beforePath="$PROJECT_DIR$/images/banner04_02.png" afterPath="$PROJECT_DIR$/images/banner04_02.png" />
-      <change beforePath="$PROJECT_DIR$/images/bifuli.jpg" afterPath="$PROJECT_DIR$/images/bifuli.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/index_advantage_05.png" afterPath="$PROJECT_DIR$/images/index_advantage_05.png" />
-      <change beforePath="$PROJECT_DIR$/images/phbanner01.jpg" afterPath="$PROJECT_DIR$/images/phbanner01.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/phbanner02.jpg" afterPath="$PROJECT_DIR$/images/phbanner02.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/phbanner03.jpg" afterPath="$PROJECT_DIR$/images/phbanner03.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/phbanner04.jpg" afterPath="$PROJECT_DIR$/images/phbanner04.jpg" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -156,7 +133,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -229,15 +206,15 @@
       <updated>1527062851956</updated>
       <workItem from="1527062855082" duration="2369000" />
       <workItem from="1527301758528" duration="615000" />
-      <workItem from="1527317925429" duration="7315000" />
+      <workItem from="1527317925429" duration="7476000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10299000" />
+    <option name="totallyTimeSpent" value="10460000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17702845" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
