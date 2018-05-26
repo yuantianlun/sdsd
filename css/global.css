@@ -1593,7 +1593,7 @@ footer {
 }
 
 .ft_mn_topul li {
-    width: 400px;
+    width: 50%;
     height: 120px;
     float: left;
     color: #ccc;
@@ -3214,7 +3214,7 @@ a.fea_close.active:hover {
         padding: 0 30px;
     }
     .ft_mn_topul li {
-        width: 33.33%;
+        width: 50%;
     }
     .ft_mn_bomlf ul {
         width: auto;
