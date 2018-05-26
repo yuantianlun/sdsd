@@ -2092,12 +2092,19 @@ i {
     width: 25%;
     float: left;
     height: 480px;
+    position: relative;
 }
 
 .aboutus-xt-item {
     width: 77%;
+    height: 130px;
     text-align: center;
-    margin: 0 auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin: auto auto;
 }
 
 .aboutus-xt-item img {
@@ -2164,7 +2171,7 @@ i {
     background-size: 23px 20px;
     font-size: 16px;
     color: rgb(255, 255, 255);
-    width: 312px;
+    width: 460px;
     margin-top: 20px;
     line-height: 32px;
 }
